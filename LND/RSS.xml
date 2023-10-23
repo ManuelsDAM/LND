@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+
+<rss version="2.0">
+    <channel>
+        <title>Mi canal de RSS</title>
+        <link>http://www.mirss.kesug.com</link>
+        <description>Noticias de actualidad</description>
+        <item>
+                <title>Noticias de actualidad</title>
+                <link>https://www.marca.com</link>
+                <description>Noticias de deporte</description>
+        </item>
+        <item>
+            <title>Noticias de actualidad</title>
+            <link>https://www.elpais.com</link>
+            <description>Noticias de actualidad</description>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,20 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+    <title type="text">Mi canal de RSS Atom</title>
+<updated>2023-10-17T19:00:46Z</updated>
+<link rel="self" type="text/html" href="http://mirss.kesug.com"/>
+<id>http://mirss.kesug.com/</id>
+<author>
+    <name>Manuel González González</name>
+    <email>manuel1998dam@gmail.com</email>
+</author>
+<entry>
+    <title>Noticias del País</title>
+    <link rel="alternate" type="text/html" href="http://elpais.com"/>
+    <id>http://elpais.com</id>
+    <author>
+        <name>Manuel González González</name>
+        <email>manuel1998dam@gmail.com</email>
+    </author>
+    <summary>Noticias buenas y malas del pais</summary>
+</entry>
+</feed>
