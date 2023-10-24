@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+      <title>Mi canal de RSS</title>
+      <link>http://www.mirss.kesug.com/</link>
+      <description>Noticias de actualidad</description>
+      <item>
+        <title>Noticias de actualidad</title>
+        <link>http://www.marca.com</link>
+        <description>Son noticias deportivas de actualidad</description>
+      </item>
+    </channel>
+</rss>
